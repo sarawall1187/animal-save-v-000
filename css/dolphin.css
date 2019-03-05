@@ -22,7 +22,6 @@ html {
 
 @media only screen and (max-width: 1070px) and (min-width: 700px) {
   #dolphin {
-    position: absolute;
     top: 100px;
     right: 0;
     transform: rotate(0.25turn);
