@@ -16,8 +16,10 @@ html {
   }
 }
 
-@media only screen and (min-width: 1170px)
-    #monkey {
-
-    }
+@media only screen and (min-width: 1170px) {
+  #monkey {
+    position: fixed;
+    right: 50px;
+  }
+  
 }
