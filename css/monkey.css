@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 @media only screen and (max-width: 406px) {
   #monkey {
-    position: absolute;
+    position: fixed;
     right: 5px;
   }
 }
