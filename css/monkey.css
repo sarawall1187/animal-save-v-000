@@ -9,17 +9,9 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width: 406px) {
+@media only screen and (min-width: 406px) and (max-width: 1170px) {
   #monkey {
-    position: fixed;
-    left: 5px;
+    right: 0;
+    top: 0;
   }
-}
-
-@media only screen and (min-width: 1170px) {
-  #monkey {
-    position: fixed;
-    right: 5px;
-  }
-
 }
